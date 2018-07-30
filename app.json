@@ -21,7 +21,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier" : "byj0101.Timer"
+    },
+    "android": {
+      "package": "byj0101.Timer"
     }
   }
 }
